@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "Rise Up",
+        "duracao": "04:57",
+        "artista": "Andra Day"
+
+    },
+    {
+        "id":2,
+        "titulo": "A Sua",
+        "duracao": "03:01",
+        "artista": "Marisa Monte"
+
+    },
+    {
+        "id":3,
+        "titulo": "Amado",
+        "duracao": "04:00",
+        "artista": "Vanessa da Mata"  
+    }
+]
